@@ -1,7 +1,7 @@
 {
     "dockerfile_lines": [],
     "graphs": {
-      "meo_themes_research": "./src/assistant/meo_graph.py:graph"
+      "ollama_deep_researcher": "./src/assistant/graph.py:graph"
     },
     "python_version": "3.11",
     "env": "./.env",
